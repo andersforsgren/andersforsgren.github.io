@@ -1,0 +1,15 @@
+{
+  "name": "starrs",
+  "collaborators": [
+    "Anders Forsgren <anders.forsgren@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "starrs_wasm_bg.wasm",
+    "starrs_wasm.js",
+    "starrs_wasm.d.ts"
+  ],
+  "module": "starrs_wasm.js",
+  "types": "starrs_wasm.d.ts",
+  "sideEffects": false
+}
